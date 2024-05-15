@@ -1,0 +1,64 @@
+body
+{
+	font-family: 'Kalam', cursive;
+}
+
+.btn
+{
+	background-color:#5e112c;
+	border-color:#3b071a;
+}
+.btn:hover
+{
+	background-color:#803599;
+	border-color:#803599;
+}
+
+.form-control:focus
+{
+	border-color:#5e112c;
+	box-shadow: 0 0 0 .2rem rgba(94, 17, 44, .25);
+}
+
+.navbar
+{
+	background-color:#5e112c;
+}
+
+.container
+{
+	
+}
+
+.obrazekLink
+{
+	background-size: cover;
+	transition: transform .2s;
+}
+
+.obrazekLink:hover
+{
+	-ms-transform: scale(1.3);
+	-webkit-transform: scale(1.3);
+}
+
+.NapObrazekLink
+{
+	width:98%;
+	color:#fff;
+	text-align:center;
+	position: absolute;
+	top: 65%;
+	text-shadow:1px 1px 2px black;
+}
+
+.CenObrazekLink
+{
+	width:98%;
+	color:#fff;
+	text-align:center;
+	position: absolute;
+	top: 83%;
+	text-shadow:1px 1px 2px black;
+}
+
