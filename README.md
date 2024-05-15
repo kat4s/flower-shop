@@ -1,3 +1,4 @@
 # flower-shop
+**The PHP-based website enables user login and retrieves products directly from the database.**
 
-![Opis obrazu](C:\dan\dorobek\kwiaciarnia.widok.PNG)
+![Opis obrazu](https://github.com/kat4s/flower-shop/blob/main/kwiaciarnia/view.PNG)
